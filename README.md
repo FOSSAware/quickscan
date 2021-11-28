@@ -1,6 +1,9 @@
  
 <img alt="SCANOSS Quickscan Lite Logo" width=250 src="./QS_lite_logo_colour.png"/>
 
+## Discontinued
+**Warning:** Quickscan has now been replaced SCANOSS Audit Workbench. More details can be found <a href="https://github.com/scanoss/audit-workbench">here</a>.
+
 ## What is SCANOSS Quickscan Lite?
 It is a tool that demonstrates scanning source code against <a href="https://osskb.org">osskb.org</a>.
 SCANOSS Quickscan scans source code against a knowledge base representing the entire OSS community. The results of the scan contain OSS matches
